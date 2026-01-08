@@ -3,7 +3,7 @@
     "8064092635"
   ],
   "config": {
-    "channel_id": "@inforezzXak",
+    "channel_id": "@inforezzXai",
     "group_id": "-1002915427730",
     "group_link": "https://t.me/publicrezzXai"
   },
