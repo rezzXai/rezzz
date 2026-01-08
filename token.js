@@ -8,6 +8,6 @@
     "group_link": "https://t.me/publicrezzXai"
   },
   "tokens": [
-    ""
+    "7780421509:AAEU5M-HaEIqyoJqffoDKQGaLmaN7r7F0zM"
   ]
 }
