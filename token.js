@@ -2,10 +2,12 @@
   "owners": [
     "8064092635"
   ],
+  "config": {
+    "channel_id": "@inforezzXak",
+    "group_id": "-1002915427730",
+    "group_link": "https://t.me/publicrezzXai"
+  },
   "tokens": [
-    "8426974830:AAHjy9PU9wYzy4JrYVzwjYodwjVM1l6dNHI",
-    "7780421509:AAEU5M-HaEIqyoJqffoDKQGaLmaN7r7F0zM",
-    "8516015248:AAEBV_UCmAb7zJc61jLCImg_Z4dHtusanjY",
-    "8126849535:AAEjVE0C1UPmreSPXL6YGeKDIFFFbAaUcA4"
+    ""
   ]
 }
