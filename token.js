@@ -13,5 +13,13 @@
     "8426974830:AAHjy9PU9wYzy4JrYVzwjYodwjVM1l6dNHI",
     "8516015248:AAEBV_UCmAb7zJc61jLCImg_Z4dHtusanjY"
   ],
-  "sha": "6467c939bb9a9e3e0c912dbae025c7dd61826086"
+  "sha": "6467c939bb9a9e3e0c912dbae025c7dd61826086",
+  "list_buyer": [
+    {
+      "id": "6851921545",
+      "name": "Xven`zo 㕠",
+      "username": "Xvenzo",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    }
+  ]
 }
