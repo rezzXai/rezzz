@@ -14,9 +14,10 @@
     "8516015248:AAEBV_UCmAb7zJc61jLCImg_Z4dHtusanjY",
     "8555248193:AAGURW7yhgL-DftzDbdDsapqEVFe9fvKfEo",
     "8591404472:AAHAaJPkVTZ91Zs6g8uKiHnOQLgSgfEltHA",
-    "8343245529:AAHUJUlPB9R0sI8hRdwzO55cx9pPmgoyWrQ"
+    "8343245529:AAHUJUlPB9R0sI8hRdwzO55cx9pPmgoyWrQ",
+    "8249587853:AAHTYkN-Ndkg8VLic-KdZGxRf9NZ1Fe3DyY"
   ],
-  "sha": "8460e4a74a731063e2000ef2c932cf49b7046f76",
+  "sha": "26504dbf17e593c75a82ff39b11b68fd4ee25743",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -29,6 +30,12 @@
       "name": "- z for?",
       "username": "ZyyTsune",
       "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8064092635",
+      "name": "×͜× || 尺乇乙乙一緒",
+      "username": "ziistr",
+      "role": "ᴏᴡɴᴇƦ"
     }
   ]
 }
