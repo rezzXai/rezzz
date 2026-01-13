@@ -17,9 +17,10 @@
     "8343245529:AAHUJUlPB9R0sI8hRdwzO55cx9pPmgoyWrQ",
     "8249587853:AAHTYkN-Ndkg8VLic-KdZGxRf9NZ1Fe3DyY",
     "8481404836:AAFj2YfOxAJUqwaW46ETrWk43fMtR1oND6g",
-    "8332371133:AAHqkVT0ACoEOfogrlT7t2MjlOjx-pcorV8"
+    "8332371133:AAHqkVT0ACoEOfogrlT7t2MjlOjx-pcorV8",
+    "8323261136:AAEawQs9NB_26SGFW7ZKcUfpW3pzxM1_tsk"
   ],
-  "sha": "0631dc3a196c6dcd2fa0092aa0279ca6fd7e8367",
+  "sha": "462d803d6ba16b4ea8c80ae4b9741ae4e54bb2c3",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -49,6 +50,12 @@
       "id": "1619141907",
       "name": "alwaysfazz (limit)",
       "username": "fazzstudent",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7973092286",
+      "name": "⏤͟͟͞͞ARMUFA STORE⏤͟͟͞͞⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
+      "username": "MYARMUFASTORE",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
