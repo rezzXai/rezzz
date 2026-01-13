@@ -42,6 +42,12 @@
       "name": "『𝗥𝟴』𝙇𝘼𝙉𝙂𝙕𝙕交",
       "username": "Langzz31x",
       "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "1619141907",
+      "name": "alwaysfazz (limit)",
+      "username": "fazzstudent",
+      "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
 }
