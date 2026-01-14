@@ -8,7 +8,7 @@
     "group_link": "https://t.me/publicrezzXai"
   },
   "tokens": [
-    "7780421509:AAEU5M-HaEIqyoJqffoDKQGaLmaN7r7F0zM",
+    "7780421509:AAFzBYn7JRMrF67BgMskH1lo3U-fZNMKhkE",
     "8502995694:AAHocXIJc0wJKOo29h9bLFiHjIUVS06NhN0",
     "8426974830:AAHjy9PU9wYzy4JrYVzwjYodwjVM1l6dNHI",
     "8516015248:AAEBV_UCmAb7zJc61jLCImg_Z4dHtusanjY",
