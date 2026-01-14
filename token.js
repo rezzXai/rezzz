@@ -53,12 +53,6 @@
       "role": "ᴍᴇᴍʙᴇƦ"
     },
     {
-      "id": "7973092286",
-      "name": "⏤͟͟͞͞ARMUFA STORE⏤͟͟͞͞⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
-      "username": "MYARMUFASTORE",
-      "role": "ᴍᴇᴍʙᴇƦ"
-    },
-    {
       "id": "7720022578",
       "name": "𝑅𝑒𝑧𝑖",
       "username": "Alwaysrezz",
