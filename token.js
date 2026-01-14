@@ -57,6 +57,12 @@
       "name": "𝑅𝑒𝑧𝑖",
       "username": "Alwaysrezz",
       "role": "ƦᴇSSᴇʟᴇƦ"
+    },
+    {
+      "id": "7973092286",
+      "name": "⏤͟͟͞͞ARMUFA STORE⏤͟͟͞͞⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
+      "username": "MYARMUFASTORE",
+      "role": "ƦᴇSSᴇʟᴇƦ"
     }
   ]
 }
