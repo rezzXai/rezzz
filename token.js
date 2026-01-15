@@ -19,9 +19,10 @@
     "8481404836:AAFj2YfOxAJUqwaW46ETrWk43fMtR1oND6g",
     "8332371133:AAHqkVT0ACoEOfogrlT7t2MjlOjx-pcorV8",
     "8323261136:AAEawQs9NB_26SGFW7ZKcUfpW3pzxM1_tsk",
-    "8253518512:AAGiuK9yDqtauYLgr1xmLkjfzhttrVBsoTQ"
+    "8253518512:AAGiuK9yDqtauYLgr1xmLkjfzhttrVBsoTQ",
+    "8491878322:AAGw8j35X55Bxuux76MwmUx3TXXknAMX-do"
   ],
-  "sha": "1c3a316568dda93f69a7e1a2713b26c4f76c4039",
+  "sha": "4e58607f589469bb649933fafbf507781ed899cf",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -64,6 +65,12 @@
       "name": "⏤͟͟͞͞ARMUFA STORE⏤͟͟͞͞⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
       "username": "MYARMUFASTORE",
       "role": "ƦᴇSSᴇʟᴇƦ"
+    },
+    {
+      "id": "7785871986",
+      "name": "ALBERT",
+      "username": "Albertpurba29",
+      "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
 }
