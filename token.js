@@ -74,6 +74,12 @@
       "name": "ALBERT",
       "username": "Albertpurba29",
       "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "6854552378",
+      "name": "斬 Zan | armufa",
+      "username": "armufastore1",
+      "role": "ƦᴇSSᴇʟᴇƦ"
     }
   ]
 }
