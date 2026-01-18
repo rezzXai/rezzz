@@ -24,7 +24,12 @@
     "8572724458:AAFdFwTRNH_iIQW-ofHZkLp7_v1pufjAfDk",
     "8281743802:AAFcd1HySDB3RgLV1crD-PnRfZw9nNO6AA4",
     "8367509799:AAGBC-eg6M4SFtUGBVDsOMmPKRW7gBgz6ZQ",
-    "8566625870:AAHhu-jSjNrAjNZzQ6QyU7FEBdNFBjTMfbc"
+    "8566625870:AAHhu-jSjNrAjNZzQ6QyU7FEBdNFBjTMfbc",
+    {
+      "key": "REZZ-C058D9",
+      "expired": 1768834080649,
+      "created_by": 8064092635
+    }
   ],
   "sha": "e214da5ef2ed4f0041d1427643a8d7a32d1b3b23",
   "list_buyer": [
