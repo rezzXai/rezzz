@@ -81,6 +81,12 @@
       "name": "斬 Zan | armufa",
       "username": "armufastore1",
       "role": "ƦᴇSSᴇʟᴇƦ"
+    },
+    {
+      "id": "7848477921",
+      "name": "¡𝗺 #𝐌𝐚𝐭𝐳",
+      "username": "xymatz",
+      "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
 }
