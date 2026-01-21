@@ -30,9 +30,10 @@
       "expired": 1768834080649,
       "created_by": 8064092635
     },
-    "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30"
+    "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
+    "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw"
   ],
-  "sha": "309ce0056f011537287ba9fe860882bdcc32dfc5",
+  "sha": "67e4cc82e3db2584e67724e4268e21fd29203fab",
   "list_buyer": [
     {
       "id": "6851921545",
