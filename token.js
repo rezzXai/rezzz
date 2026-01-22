@@ -31,9 +31,10 @@
       "created_by": 8064092635
     },
     "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
-    "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw"
+    "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw",
+    "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc"
   ],
-  "sha": "67e4cc82e3db2584e67724e4268e21fd29203fab",
+  "sha": "f968da876bcee6650b74643de1c6d5d54abf7640",
   "list_buyer": [
     {
       "id": "6851921545",
