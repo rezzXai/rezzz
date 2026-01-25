@@ -32,9 +32,10 @@
     },
     "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
     "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw",
-    "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc"
+    "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc",
+    "8272243387:AAHfj6Alq2TZoFscjtZsG9rQ9cEugCgPH6k"
   ],
-  "sha": "f968da876bcee6650b74643de1c6d5d54abf7640",
+  "sha": "864aa357953bb6ea569f5678da508847edcf378d",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -112,6 +113,12 @@
       "id": "7622581857",
       "name": "FlowraHanz",
       "username": "FlowraHanz",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8157817774",
+      "name": "𝐗𝐞𝐧 𝐎𝐟𝐟𝐜 [REHAT]",
+      "username": "xenoffc",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
