@@ -35,9 +35,10 @@
     "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc",
     "8272243387:AAHfj6Alq2TZoFscjtZsG9rQ9cEugCgPH6k",
     "7821762862:AAEZFAOHkdSsUvDE5rbXmw5ZNdfh0iJ4ibc",
-    "gw"
+    "gw",
+    "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90"
   ],
-  "sha": "39488054088f6eb2d273bae17fbdb506ab0ac673",
+  "sha": "235ff1eb20ac55c22232af20c0057fadf2702c5c",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -127,6 +128,12 @@
       "id": "5829437334",
       "name": "Who?",
       "username": "Lynuxyz",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7655827848",
+      "name": "⏤͟͟͞͞X4R || Kazumii",
+      "username": "Kazumiiv1",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
