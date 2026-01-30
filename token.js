@@ -18,9 +18,10 @@
     "gw",
     "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90",
     "8572724458:AAFdFwTRNH_iIQW-ofHZkLp7_v1pufjAfDk",
-    "8007369739:AAFIFRqi7RxxhD7s2CdXGp0cHA3_eVgLrqU"
+    "8007369739:AAFIFRqi7RxxhD7s2CdXGp0cHA3_eVgLrqU",
+    "8399100766:AAEmR9Sxp4zpraWhoU1nG5s-9IkuWRhS1iU"
   ],
-  "sha": "efbad107fb0715dda22dcbed31a9e863a49c24b9",
+  "sha": "6e9d0289da694067220709f4860fbcdc5e82cb1a",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -123,6 +124,12 @@
       "name": "⏤͟͟͞͞X4R || Kazumii",
       "username": "Kazumiiv1",
       "role": "ƦᴇSSᴇʟᴇƦ"
+    },
+    {
+      "id": "8512785930",
+      "name": "ㅤ",
+      "username": "lanz4npe",
+      "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
 }
