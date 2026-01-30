@@ -34,7 +34,6 @@
     "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw",
     "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc",
     "8272243387:AAHfj6Alq2TZoFscjtZsG9rQ9cEugCgPH6k",
-    "7821762862:AAEZFAOHkdSsUvDE5rbXmw5ZNdfh0iJ4ibc",
     "gw",
     "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90"
   ],
