@@ -31,7 +31,6 @@
       "created_by": 8064092635
     },
     "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
-    "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw",
     "gw",
     "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90"
   ],
