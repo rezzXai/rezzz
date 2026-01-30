@@ -32,7 +32,6 @@
     },
     "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
     "8248385094:AAEsqZFUtEpjHdiAH1b8srjgn0l54LzDKWw",
-    "8411930593:AAEkwckOSIikQUqBeBqX2sQUCD4sc7egFcc",
     "gw",
     "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90"
   ],
