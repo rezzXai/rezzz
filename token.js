@@ -16,9 +16,10 @@
     },
     "8384193061:AAFN1usaZ0-jfEKYHSpJhmE49RQ27WRzR30",
     "gw",
-    "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90"
+    "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90",
+    "8572724458:AAFdFwTRNH_iIQW-ofHZkLp7_v1pufjAfDk"
   ],
-  "sha": "235ff1eb20ac55c22232af20c0057fadf2702c5c",
+  "sha": "4c48a784c9a210fa03d06044d0b8302d0859ea82",
   "list_buyer": [
     {
       "id": "6851921545",
