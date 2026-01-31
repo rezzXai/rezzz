@@ -19,9 +19,10 @@
     "8308126130:AAFMNp9iIrmwF3ELwAdaXcsnj66kVL2Gv90",
     "8572724458:AAFdFwTRNH_iIQW-ofHZkLp7_v1pufjAfDk",
     "8007369739:AAFIFRqi7RxxhD7s2CdXGp0cHA3_eVgLrqU",
-    "8399100766:AAEmR9Sxp4zpraWhoU1nG5s-9IkuWRhS1iU"
+    "8399100766:AAEmR9Sxp4zpraWhoU1nG5s-9IkuWRhS1iU",
+    "8495846718:AAG7INEMAwbf-_aiz6vw7o3iX2upl3MgUiA"
   ],
-  "sha": "6e9d0289da694067220709f4860fbcdc5e82cb1a",
+  "sha": "a66819fccd9af53660a49e390ec0748daaa93435",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -129,6 +130,12 @@
       "id": "8512785930",
       "name": "ㅤ",
       "username": "lanz4npe",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8317563450",
+      "name": "今 𝗫𝗜𝗗℻ | 夜 ¡m Aʅɯαყʂƙιxყȥ",
+      "username": "cskixyz",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
