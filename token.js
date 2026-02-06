@@ -24,9 +24,10 @@
     "8491878322:AAGw8j35X55Bxuux76MwmUx3TXXknAMX-do",
     "8566625870:AAHhu-jSjNrAjNZzQ6QyU7FEBdNFBjTMfbc",
     "8294180271:AAGJ6JK3pDp3yefOsEt5Rzc8Fx3mw-RnDQg",
-    "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk"
+    "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
+    "8580861730:AAFgbmvJPL0j9qXajZbNMaw3__a8eTJvIvY"
   ],
-  "sha": "96a8305d41e6c2b1bda9cb037475537fc163257a",
+  "sha": "eefbb1e565f7d76251a56c8afbc79ffc26df10cc",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -140,6 +141,12 @@
       "id": "8317563450",
       "name": "今 𝗫𝗜𝗗℻ | 夜 ¡m Aʅɯαყʂƙιxყȥ",
       "username": "cskixyz",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8529090104",
+      "name": "RAF_(²⁰²⁶)",
+      "username": "Raffa_md",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
