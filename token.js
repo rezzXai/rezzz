@@ -25,9 +25,10 @@
     "8566625870:AAHhu-jSjNrAjNZzQ6QyU7FEBdNFBjTMfbc",
     "8294180271:AAGJ6JK3pDp3yefOsEt5Rzc8Fx3mw-RnDQg",
     "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
-    "8580861730:AAFgbmvJPL0j9qXajZbNMaw3__a8eTJvIvY"
+    "8580861730:AAFgbmvJPL0j9qXajZbNMaw3__a8eTJvIvY",
+    "lenn"
   ],
-  "sha": "eefbb1e565f7d76251a56c8afbc79ffc26df10cc",
+  "sha": "b3cdefa191d88c2201e07a63694d5b223698d276",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -147,6 +148,12 @@
       "id": "8529090104",
       "name": "RAF_(²⁰²⁶)",
       "username": "Raffa_md",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7493384194",
+      "name": "SanzyHere",
+      "username": "LennSolzz",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
