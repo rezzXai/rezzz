@@ -5,8 +5,7 @@
   "config": {
     "channel_id": "@inforezzXai",
     "group_id": "-1002915427730",
-    "group_link": "https://t.me/publicrezzXai", 
-    "ATLANTICH2H": "K9AaBNlwUITnAcoRrlxFFWu9AaxIIQXLoUcVDwLNPjpsajQUAYVNx6owIxjqdE37s7OEo28jbtFp6RMRflMhV5LXOKIlIrm32uuE"
+    "group_link": "https://t.me/publicrezzXai"
   },
   "tokens": [
     "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
