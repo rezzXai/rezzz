@@ -6,10 +6,9 @@
     "channel_id": "@inforezzXai",
     "group_id": "-1002915427730",
     "group_link": "https://t.me/publicrezzXai"
-    "ATLANTICH2H": "  "
   },
   "tokens": [
-    "7780421509:AAFzBYn7JRMrF67BgMskH1lo3U-fZNMKhkE",
+    "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
     {
       "key": "REZZ-C058D9",
       "expired": 1768834080649,
