@@ -8,7 +8,7 @@
     "group_link": "https://t.me/publicrezzXai"
   },
   "tokens": [
-    "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
+    "7780421509:AAFzBYn7JRMrF67BgMskH1lo3U-fZNMKhkE",
     {
       "key": "REZZ-C058D9",
       "expired": 1768834080649,
