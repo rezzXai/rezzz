@@ -28,9 +28,10 @@
     "8580861730:AAFgbmvJPL0j9qXajZbNMaw3__a8eTJvIvY",
     "lenn",
     "8109042174:AAF5nyyO85NsMym2VdRgEMOg1331odTdITA",
-    "8426974830:AAHjy9PU9wYzy4JrYVzwjYodwjVM1l6dNHI"
+    "8426974830:AAHjy9PU9wYzy4JrYVzwjYodwjVM1l6dNHI",
+    "8126849535:AAEjVE0C1UPmreSPXL6YGeKDIFFFbAaUcA4"
   ],
-  "sha": "d309e0c0d35a3d88be98cf0374be15ce5a5c2e0a",
+  "sha": "a68c4d57cad84846c08130cb1d267d9392088b8e",
   "list_buyer": [
     {
       "id": "6851921545",
