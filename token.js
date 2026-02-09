@@ -26,9 +26,10 @@
     "8294180271:AAGJ6JK3pDp3yefOsEt5Rzc8Fx3mw-RnDQg",
     "7939925628:AAHAP3ttPlsQkgAawwngnGRK_8fe-mH-jzk",
     "8580861730:AAFgbmvJPL0j9qXajZbNMaw3__a8eTJvIvY",
-    "lenn"
+    "lenn",
+    "8109042174:AAF5nyyO85NsMym2VdRgEMOg1331odTdITA"
   ],
-  "sha": "b3cdefa191d88c2201e07a63694d5b223698d276",
+  "sha": "93426059016948c0716ae0ab2c128a92aa86cde1",
   "list_buyer": [
     {
       "id": "6851921545",
