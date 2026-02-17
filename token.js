@@ -33,9 +33,10 @@
     "8566625870:AAFzUUz3CRLnqORBER5pqWfbdXsM8OKu4_s",
     "8109042174:AAHKrvReNqa4cNTkh6Cv2oQGUPTkcsI7c4s",
     "8519230107:AAGc_LRQpbPtLTELhO4--_KRG4_TtmGd1Ug",
-    "7640555489:AAF9z-T-wf3eAUYz2l_UjzalZfrEVgnnY-k"
+    "7640555489:AAF9z-T-wf3eAUYz2l_UjzalZfrEVgnnY-k",
+    "8089260790:AAF0YFRksRJOsx4Tb0b7c9vZQrmq6iaNjvw"
   ],
-  "sha": "cc8c7e7aa878ee791d8fcb6c4353736fa8eb2230",
+  "sha": "b6d47ff52ee45915ccfd74e740d6ea9ed6101f03",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -161,6 +162,12 @@
       "id": "7493384194",
       "name": "SanzyHere",
       "username": "LennSolzz",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7153781494",
+      "name": "jung",
+      "username": "makanGhati",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
