@@ -34,9 +34,10 @@
     "8109042174:AAHKrvReNqa4cNTkh6Cv2oQGUPTkcsI7c4s",
     "8519230107:AAGc_LRQpbPtLTELhO4--_KRG4_TtmGd1Ug",
     "7640555489:AAF9z-T-wf3eAUYz2l_UjzalZfrEVgnnY-k",
-    "8089260790:AAF0YFRksRJOsx4Tb0b7c9vZQrmq6iaNjvw"
+    "8089260790:AAF0YFRksRJOsx4Tb0b7c9vZQrmq6iaNjvw",
+    "8325149717:AAHmqg_QuBeyCOig9YBSK0WPTdsWTdhxzio"
   ],
-  "sha": "b6d47ff52ee45915ccfd74e740d6ea9ed6101f03",
+  "sha": "3fdd4dc4bbc2cc29eeee15ef154cdd447a0f03e6",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -168,6 +169,12 @@
       "id": "7153781494",
       "name": "jung",
       "username": "makanGhati",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7843576576",
+      "name": "ARSTORE",
+      "username": "CsArstore",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
