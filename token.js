@@ -38,9 +38,10 @@
     "8527349057:AAESrcmwIUqM87VgfKRCjEJi_1vFWQyO9Xw",
     "8518179951:AAGfmAN6c7fZrlz1I95fHi3r7aRIheWc2Qo",
     "8126849535:AAEjVE0C1UPmreSPXL6YGeKDIFFFbAaUcA4",
-    "8648400777:AAH3RsiPpVAOyeLRJ9Jyv54gmjAW02er108"
+    "8648400777:AAH3RsiPpVAOyeLRJ9Jyv54gmjAW02er108",
+    "8602124618:AAGfqq2-drpIJCeNzlZ3DgTIy-tZibuC36Q"
   ],
-  "sha": "db7cbadaca6ae173587f5a0e728d66140c931ac3",
+  "sha": "b0b2716f204f37627169af052e3ff3c90fa236e7",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -178,6 +179,12 @@
       "id": "7843576576",
       "name": "ARSTORE",
       "username": "CsArstore",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8798112790",
+      "name": "Vvip",
+      "username": "Vvip0_0",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
