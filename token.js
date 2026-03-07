@@ -39,9 +39,10 @@
     "8518179951:AAGfmAN6c7fZrlz1I95fHi3r7aRIheWc2Qo",
     "8126849535:AAEjVE0C1UPmreSPXL6YGeKDIFFFbAaUcA4",
     "8648400777:AAH3RsiPpVAOyeLRJ9Jyv54gmjAW02er108",
-    "8602124618:AAGfqq2-drpIJCeNzlZ3DgTIy-tZibuC36Q"
+    "8602124618:AAGfqq2-drpIJCeNzlZ3DgTIy-tZibuC36Q",
+    "8614242537:AAHyPDJvWKKPWkh1qR0jjswongAHhlPzHFI"
   ],
-  "sha": "b0b2716f204f37627169af052e3ff3c90fa236e7",
+  "sha": "6d65b1cc7ac6ba96e2d27a4ff3234c78d48f63d2",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -185,6 +186,12 @@
       "id": "8798112790",
       "name": "Vvip",
       "username": "Vvip0_0",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "6764682875",
+      "name": "Hangz",
+      "username": "hananneedbuyer",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
