@@ -42,9 +42,10 @@
     "8602124618:AAGfqq2-drpIJCeNzlZ3DgTIy-tZibuC36Q",
     "8614242537:AAHyPDJvWKKPWkh1qR0jjswongAHhlPzHFI",
     "8763857861:AAH_3s-Isns6vGhgY680_BIg1zOw9qwSJNQ",
-    "8743648435:AAHvAb8G9aUc53ncbbPOB4AhU3-xjQju4PY"
+    "8743648435:AAHvAb8G9aUc53ncbbPOB4AhU3-xjQju4PY",
+    "7207781823:AAFJuAOId-lVDU7GtnCq5CUmElCuZy7SmJc"
   ],
-  "sha": "0ce0d83b4afc2161916a8fb0a69a6ce773c328a8",
+  "sha": "1f56949a8692f878895f0e96c9e88082c2ae8a64",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -194,6 +195,12 @@
       "id": "6764682875",
       "name": "Hangz",
       "username": "hananneedbuyer",
+      "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "7822375497",
+      "name": "𝐄𝐱𝐞𝐜𝐞𝐥𝐥𝐞𝐧𝐭 || Rafzz",
+      "username": "rafzztzy",
       "role": "ᴍᴇᴍʙᴇƦ"
     }
   ]
