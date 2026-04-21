@@ -1,6 +1,6 @@
 {
   "owners": [
-    "8064092635"
+    "7720022578"
   ],
   "config": {
     "channel_id": "@inforezzXai",
