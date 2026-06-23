@@ -1,6 +1,6 @@
 {
   "owners": [
-    "7720022578"
+    "8670891735"
   ],
   "config": {
     "channel_id": "@inforezzXai",
@@ -37,7 +37,7 @@
     "8325149717:AAHmqg_QuBeyCOig9YBSK0WPTdsWTdhxzio",
     "8527349057:AAESrcmwIUqM87VgfKRCjEJi_1vFWQyO9Xw",
     "8518179951:AAGfmAN6c7fZrlz1I95fHi3r7aRIheWc2Qo",
-    "8126849535:AAEjVE0C1UPmreSPXL6YGeKDIFFFbAaUcA4",
+    "8127273444:AAELyeqeiBiFhVTvNrCndwVQLywCeoMX_kI",
     "8648400777:AAH3RsiPpVAOyeLRJ9Jyv54gmjAW02er108",
     "8602124618:AAGfqq2-drpIJCeNzlZ3DgTIy-tZibuC36Q",
     "8614242537:AAHyPDJvWKKPWkh1qR0jjswongAHhlPzHFI",
