@@ -47,9 +47,10 @@
     "8614242537:AAHmcQlkBFzUW0X4yoR0i2GZ2MYJd_ibGMA",
     "8343747864:AAH7KmdBUhN1WfC0C6HyRadMswfTVP6XNGA",
     "8488904728:AAFWqWr7e9BTTd6C2-uz1HvcPFqF5IIEnOk",
-    "8677502110:AAGmgQq8hlTHCgQtawIZflA1RZjiVgt-lpY"
+    "8677502110:AAGmgQq8hlTHCgQtawIZflA1RZjiVgt-lpY",
+    "8841193948:AAEE-j13vVSJ8AFZWvcCSVJKyJ4EfP0AzV8"
   ],
-  "sha": "e6f29e758dd22f4ba9978ec16b7a96cdf6db4d7a",
+  "sha": "fa5de943bac175cd722725ab27882fccdf81db33",
   "list_buyer": [
     {
       "id": "6851921545",
@@ -212,6 +213,12 @@
       "name": "han",
       "username": "None",
       "role": "ᴍᴇᴍʙᴇƦ"
+    },
+    {
+      "id": "8670891735",
+      "name": "rezzi bot",
+      "username": "None",
+      "role": "ᴏᴡɴᴇƦ"
     }
   ]
 }
