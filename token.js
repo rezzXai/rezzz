@@ -221,12 +221,6 @@
       "name": "rezzi bot",
       "username": "None",
       "role": "ᴏᴡɴᴇƦ"
-    },
-    {
-      "id": "8838679761",
-      "name": "rezi",
-      "username": "whorezi",
-      "role": "CUNGPRET"
     }
   ]
 }
