@@ -3,9 +3,9 @@
     "8670891735"
   ],
   "config": {
-    "channel_id": "@inforezzXai",
-    "group_id": "-1002915427730",
-    "group_link": "https://t.me/publicrezzXai"
+    "channel_id": "@chrezistore",
+    "group_id": "-1003929513518",
+    "group_link": "https://t.me/gbrezistore"
   },
   "tokens": [
     "7780421509:AAFzBYn7JRMrF67BgMskH1lo3U-fZNMKhkE",
