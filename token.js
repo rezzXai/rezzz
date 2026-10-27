@@ -51,9 +51,10 @@
     "8841193948:AAEE-j13vVSJ8AFZWvcCSVJKyJ4EfP0AzV8",
     "8127273444:AAGSDsTWPiekttvFWztZh-uRIA18cFOIPMI",
     "8205038475:AAF33RHQ7Y4BkhzPj7qejMN6Oz4LTilr4yY",
-    "8910836501:AAECevYMS1U5jnQzE9HnBkSEMx6Ifrl0Oyo"
+    "8910836501:AAECevYMS1U5jnQzE9HnBkSEMx6Ifrl0Oyo",
+    "8841193948:AAGdd4j1RdTBmHc73mIuOo_vkAqObPjZ5A0"
   ],
-  "sha": "7e853f8777682ab819b6af1ebf36bd0de63a1a1e",
+  "sha": "8cbc4ad6b62c8c5f778d33bf7aeba5f8f84c5a54",
   "list_buyer": [
     {
       "id": "6851921545",
